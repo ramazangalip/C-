@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3065F-934E-4267-BBF0-4149146F591F}|Conditionals\\Conditionals.csproj|c:\\users\\seyfu\\desktop\\c#\\csharpcourse\\conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F3065F-934E-4267-BBF0-4149146F591F}|Conditionals\\Conditionals.csproj|solutionrelative:conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC24801-3615-48AE-818D-35A3D5302F26}|TypesAndVariables\\TypesAndVariables.csproj|c:\\users\\seyfu\\desktop\\c#\\csharpcourse\\typesandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC24801-3615-48AE-818D-35A3D5302F26}|TypesAndVariables\\TypesAndVariables.csproj|solutionrelative:typesandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\Conditionals\\Program.cs",
+              "RelativeDocumentMoniker": "Conditionals\\Program.cs",
+              "ToolTip": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\Conditionals\\Program.cs",
+              "RelativeToolTip": "Conditionals\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:32:11.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\TypesAndVariables\\Program.cs",
+              "RelativeDocumentMoniker": "TypesAndVariables\\Program.cs",
+              "ToolTip": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\TypesAndVariables\\Program.cs",
+              "RelativeToolTip": "TypesAndVariables\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:28:34.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
