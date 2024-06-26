@@ -49,15 +49,7 @@ namespace Conditionals
             //{
             //    Console.WriteLine("Sayi 200 den büyük veya 0 dan küçük");
             //}
-            if (number<100)
-            {
-                if (number>=90&& number<95)
-                {
-                    
-                }
-                else
-
-            }
+           
 
 
             Console.ReadLine();

@@ -1,0 +1,7 @@
+C:\Users\seyfu\Desktop\C#\CSharpCourse\Methods\bin\Debug\Methods.exe.config
+C:\Users\seyfu\Desktop\C#\CSharpCourse\Methods\bin\Debug\Methods.exe
+C:\Users\seyfu\Desktop\C#\CSharpCourse\Methods\bin\Debug\Methods.pdb
+C:\Users\seyfu\Desktop\C#\CSharpCourse\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\seyfu\Desktop\C#\CSharpCourse\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\seyfu\Desktop\C#\CSharpCourse\Methods\obj\Debug\Methods.exe
+C:\Users\seyfu\Desktop\C#\CSharpCourse\Methods\obj\Debug\Methods.pdb

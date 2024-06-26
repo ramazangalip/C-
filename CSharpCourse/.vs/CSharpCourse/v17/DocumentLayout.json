@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56F3065F-934E-4267-BBF0-4149146F591F}|Conditionals\\Conditionals.csproj|c:\\users\\seyfu\\desktop\\c#\\csharpcourse\\conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56F3065F-934E-4267-BBF0-4149146F591F}|Conditionals\\Conditionals.csproj|solutionrelative:conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A52DD76-9002-475A-8CCA-24C4D79CD6D3}|Loops\\Loops.csproj|c:\\users\\seyfu\\desktop\\c#\\csharpcourse\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A52DD76-9002-475A-8CCA-24C4D79CD6D3}|Loops\\Loops.csproj|solutionrelative:loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DC24801-3615-48AE-818D-35A3D5302F26}|TypesAndVariables\\TypesAndVariables.csproj|c:\\users\\seyfu\\desktop\\c#\\csharpcourse\\typesandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DC24801-3615-48AE-818D-35A3D5302F26}|TypesAndVariables\\TypesAndVariables.csproj|solutionrelative:typesandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FE04641-A84B-40E8-9F2E-401A7AECDEED}|Arrays\\Arrays.csproj|c:\\users\\seyfu\\desktop\\c#\\csharpcourse\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE04641-A84B-40E8-9F2E-401A7AECDEED}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\Conditionals\\Program.cs",
-              "RelativeDocumentMoniker": "Conditionals\\Program.cs",
-              "ToolTip": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\Conditionals\\Program.cs",
-              "RelativeToolTip": "Conditionals\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwDoAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\Loops\\Program.cs",
+              "RelativeDocumentMoniker": "Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\Loops\\Program.cs",
+              "RelativeToolTip": "Loops\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T15:32:11.934Z",
+              "WhenOpened": "2024-06-26T10:15:49.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\TypesAndVariables\\Program.cs",
-              "RelativeDocumentMoniker": "TypesAndVariables\\Program.cs",
-              "ToolTip": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\TypesAndVariables\\Program.cs",
-              "RelativeToolTip": "TypesAndVariables\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAdAAAA",
+              "DocumentMoniker": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwCcAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T14:28:34.935Z",
+              "WhenOpened": "2024-06-26T09:50:03.495Z",
               "EditorCaption": ""
             }
           ]
