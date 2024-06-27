@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6AF1E28A-A097-4E60-9A98-9F0E96D699B6}|Strings\\Strings.csproj|c:\\users\\seyfu\\desktop\\c#\\csharpcourse\\strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF1E28A-A097-4E60-9A98-9F0E96D699B6}|Strings\\Strings.csproj|solutionrelative:strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A52DD76-9002-475A-8CCA-24C4D79CD6D3}|Loops\\Loops.csproj|c:\\users\\seyfu\\desktop\\c#\\csharpcourse\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A52DD76-9002-475A-8CCA-24C4D79CD6D3}|Loops\\Loops.csproj|solutionrelative:loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FE04641-A84B-40E8-9F2E-401A7AECDEED}|Arrays\\Arrays.csproj|c:\\users\\seyfu\\desktop\\c#\\csharpcourse\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FE04641-A84B-40E8-9F2E-401A7AECDEED}|Arrays\\Arrays.csproj|C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FE04641-A84B-40E8-9F2E-401A7AECDEED}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,18 +28,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\Strings\\Program.cs",
+              "RelativeDocumentMoniker": "Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\Strings\\Program.cs",
+              "RelativeToolTip": "Strings\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:55:52.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\Loops\\Program.cs",
               "RelativeDocumentMoniker": "Loops\\Program.cs",
               "ToolTip": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\Loops\\Program.cs",
               "RelativeToolTip": "Loops\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T10:15:49.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\seyfu\\Desktop\\C#\\CSharpCourse\\Arrays\\Program.cs",
               "RelativeDocumentMoniker": "Arrays\\Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Arrays\\Program.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAIwCcAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:50:03.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T09:50:03.495Z"
             }
           ]
         }
